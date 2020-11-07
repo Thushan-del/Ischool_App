@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "487163489806",
+    "firebase_url": "https://schoolp-39c15.firebaseio.com",
+    "project_id": "schoolp-39c15",
+    "storage_bucket": "schoolp-39c15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487163489806:android:ca90d070f50f1e1c8b965f",
+        "android_client_info": {
+          "package_name": "com.example.ischoolmax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487163489806-2arq3ilb272mdhjlbnq56of8rbmae96u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkC0bIxc917UfitWrsofjTUUwmCqjcPO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487163489806-2arq3ilb272mdhjlbnq56of8rbmae96u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
